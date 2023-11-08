@@ -6,10 +6,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alf.text/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+555481051182)
 
-<span>Status baseados em repositórios públicos<span />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alef011&show_icons=true&theme=merko" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alef011&show_icons=true&theme=merko&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alef011&hide=typeScript,ruby,glsl,kotlin,swift,rust,astro,makefile,go,python,shell,lua,assembly,scala,ada,objective-c,haxe,d&layout=donut&langs_count=8&card_width=320&theme=merko" />

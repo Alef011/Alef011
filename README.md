@@ -32,3 +32,5 @@
 <span>“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”<br/>
 <strong>-Bill Gates</strong>
 <span/>
+
+![Snake animation](https://github.com/Alef011/Alef011/blob/output/github-contribution-grid-snake.svg)

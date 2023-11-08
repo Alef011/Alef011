@@ -33,4 +33,4 @@
 <strong>-Bill Gates</strong>
 <span/>
 
-![Snake animation](https://github.com/Alef011/Alef011/blob/output/github-contribution-grid-snake.svg)
+

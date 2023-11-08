@@ -10,7 +10,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alef011&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&hide=typeScript,glsl,rust,astro,makefile,go,python,shell,lua,assembly,scala,ada,objective-c,haxe,d&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alef011&hide=typeScript,ruby,glsl,kotlin,swift,rust,astro,makefile,go,python,shell,lua,assembly,scala,ada,objective-c,haxe,d&layout=donut&langs_count=8&card_width=320&theme=merko" />
 </a>
 
 

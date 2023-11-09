@@ -14,7 +14,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alef011&hide=typeScript,ruby,glsl,kotlin,swift,rust,astro,makefile,go,python,shell,lua,assembly,scala,ada,objective-c,haxe,d&layout=donut&langs_count=8&card_width=320&theme=merko" />
 </a>
 
+## Tecnologias que estou estudando no momento
 
+<div style="display: inline_block"><br/>
+<img align="center" alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img align="center" alt="flutter" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  
+</div>
 
 ## Tecnologias que utilizo no meu dia
 

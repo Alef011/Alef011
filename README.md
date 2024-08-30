@@ -2,9 +2,9 @@
 ## Olá! sou Alef Melo (fullstack developer) 👋🏼
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alef-mello-pires-/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/profile.php?id=100006614534670](https://www.facebook.com/alf.mo.90))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/alf.text/](https://www.instagram.com/alfie_melo/))
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]([+555481051182](https://api.whatsapp.com/qr/NHI7322NTYDFD1?autoload=1&app_absent=0))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alf.mo.90)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alfie_melo/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/qr/NHI7322NTYDFD1?autoload=1&app_absent=0)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
